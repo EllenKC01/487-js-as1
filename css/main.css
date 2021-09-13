@@ -1,15 +1,12 @@
-
-
-.answer{
-  border:1px solid #56A0D3;
-  width:50%;
-  min-height:50px;
+.answer {
+  border: 1px solid #56a0d3;
+  width: 50%;
+  min-height: 50px;
 }
 
-
 #main-canvas {
-width: 400px;
-height: 400px;
-border: solid 1px black;
-margin-left: 30px;
+  width: 400px;
+  height: 400px;
+  border: solid 1px black;
+  margin-left: 30px;
 }
